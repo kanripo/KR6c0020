@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:23.223177
+#+DATE: 2015-08-30 19:44:24.893034
 #+TITLE: 文殊師利所說摩訶般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0232
 #+PROPERTY: ID KR6c0020
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 232
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0020_T_000-0726a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0020_T_002-0729b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《文殊師利所說摩訶般若波羅蜜¶
+《文殊師利所說摩訶般若波羅蜜¶
 經》卷下¶
 ¶
 梁扶南國三藏曼陀羅仙譯¶
