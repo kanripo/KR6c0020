@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:24.626623
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:24
 #+TITLE: 文殊師利所說摩訶般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0232
 #+PROPERTY: ID KR6c0020
